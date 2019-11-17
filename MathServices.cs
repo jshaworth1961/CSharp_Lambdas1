@@ -7,7 +7,10 @@ namespace CSharp_Lambdas
     internal class MathServices
     {
 
-        internal event EventHandler<MathPerformedEventArgs> MathPerformed;
+        
+        internal delegate void MathPerformedEventHandler(double result); //custom delegate
+
+        internal event MathPerformedEventHandler MathPerformed;
 
         internal delegate void OperationHandler(double value1, double value2);
 
@@ -25,7 +28,8 @@ namespace CSharp_Lambdas
             Timer timer = new Timer(5000);
             
             double result = value1*value2;
-            MathPerformed?.Invoke(this, new MathPerformedEventArgs(result));
+            //MathPerformed?.Invoke(this, new MathPerformedEventArgs(result));
+            MathPerformed?.Invoke(result);
         }
 
         internal void AddNum(double value1, double value2)
@@ -34,7 +38,8 @@ namespace CSharp_Lambdas
 
             double result = value1 + value2;
 
-            MathPerformed?.Invoke(this, new MathPerformedEventArgs(result));
+            //MathPerformed?.Invoke(this, new MathPerformedEventArgs(result));
+            MathPerformed?.Invoke(result);
         }
 
     }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jshaw\\Desktop\\C_Sharp\\CSharpAdvTutorials\\Delegates_Lambdas_Action_Func\\CSharp_Lambdas\\CSharp_Lambdas.csproj",
+      "projectUniqueName": "C:\\Users\\jshaw\\Desktop\\C_Sharp\\CSharpAdvTutorials\\Delegates_Lambdas_Action_Func\\CSharp_Lambdas2\\CSharp_Lambdas.csproj",
       "projectName": "CSharp_Lambdas",
-      "projectPath": "C:\\Users\\jshaw\\Desktop\\C_Sharp\\CSharpAdvTutorials\\Delegates_Lambdas_Action_Func\\CSharp_Lambdas\\CSharp_Lambdas.csproj",
+      "projectPath": "C:\\Users\\jshaw\\Desktop\\C_Sharp\\CSharpAdvTutorials\\Delegates_Lambdas_Action_Func\\CSharp_Lambdas2\\CSharp_Lambdas.csproj",
       "packagesPath": "C:\\Users\\jshaw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jshaw\\Desktop\\C_Sharp\\CSharpAdvTutorials\\Delegates_Lambdas_Action_Func\\CSharp_Lambdas\\obj\\",
+      "outputPath": "C:\\Users\\jshaw\\Desktop\\C_Sharp\\CSharpAdvTutorials\\Delegates_Lambdas_Action_Func\\CSharp_Lambdas2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
