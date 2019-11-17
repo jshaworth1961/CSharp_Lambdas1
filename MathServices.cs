@@ -10,38 +10,27 @@ namespace CSharp_Lambdas
         
         internal delegate void MathPerformedEventHandler(double result); //custom delegate
 
+        internal delegate double CalculationHandler(double value1, double value2);
+
         internal event MathPerformedEventHandler MathPerformed;
 
-        internal delegate void OperationHandler(double value1, double value2);
-
-        internal OperationHandler Operation;
+        
 
         internal MathServices()
         {
-            Operation += AddNum;
-            Operation += MultNum;
+            
+           
         }
 
-
-        internal void MultNum(double value1, double value2)
+        //with the method below implementation details can be assigned later to the delegate
+        internal void CalculateNumbers(double value1, double value2, CalculationHandler calc)
         {
             Timer timer = new Timer(5000);
-            
-            double result = value1*value2;
-            //MathPerformed?.Invoke(this, new MathPerformedEventArgs(result));
-            MathPerformed?.Invoke(result);
+        
+            MathPerformed?.Invoke(calc(value1, value2));
         }
 
-        internal void AddNum(double value1, double value2)
-        {
-            Timer timer2 = new Timer(5000);
-
-            double result = value1 + value2;
-
-            //MathPerformed?.Invoke(this, new MathPerformedEventArgs(result));
-            MathPerformed?.Invoke(result);
-        }
-
+        
     }
 
 

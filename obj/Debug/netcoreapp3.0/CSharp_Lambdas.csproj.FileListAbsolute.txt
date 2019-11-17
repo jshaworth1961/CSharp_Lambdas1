@@ -20,3 +20,14 @@ C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\Delegates_Lambdas_Action_Func\
 C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\Delegates_Lambdas_Action_Func\CSharp_Lambdas2\bin\Debug\netcoreapp3.0\CSharp_Lambdas.runtimeconfig.dev.json
 C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\Delegates_Lambdas_Action_Func\CSharp_Lambdas2\bin\Debug\netcoreapp3.0\CSharp_Lambdas.dll
 C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\Delegates_Lambdas_Action_Func\CSharp_Lambdas2\bin\Debug\netcoreapp3.0\CSharp_Lambdas.pdb
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\Delegates_Lambdas_Action_Func\CSharp_Lambdas3\obj\Debug\netcoreapp3.0\CSharp_Lambdas.csprojAssemblyReference.cache
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\Delegates_Lambdas_Action_Func\CSharp_Lambdas3\obj\Debug\netcoreapp3.0\CSharp_Lambdas.AssemblyInfoInputs.cache
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\Delegates_Lambdas_Action_Func\CSharp_Lambdas3\obj\Debug\netcoreapp3.0\CSharp_Lambdas.AssemblyInfo.cs
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\Delegates_Lambdas_Action_Func\CSharp_Lambdas3\obj\Debug\netcoreapp3.0\CSharp_Lambdas.dll
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\Delegates_Lambdas_Action_Func\CSharp_Lambdas3\obj\Debug\netcoreapp3.0\CSharp_Lambdas.pdb
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\Delegates_Lambdas_Action_Func\CSharp_Lambdas3\bin\Debug\netcoreapp3.0\CSharp_Lambdas.exe
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\Delegates_Lambdas_Action_Func\CSharp_Lambdas3\bin\Debug\netcoreapp3.0\CSharp_Lambdas.deps.json
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\Delegates_Lambdas_Action_Func\CSharp_Lambdas3\bin\Debug\netcoreapp3.0\CSharp_Lambdas.runtimeconfig.json
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\Delegates_Lambdas_Action_Func\CSharp_Lambdas3\bin\Debug\netcoreapp3.0\CSharp_Lambdas.runtimeconfig.dev.json
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\Delegates_Lambdas_Action_Func\CSharp_Lambdas3\bin\Debug\netcoreapp3.0\CSharp_Lambdas.dll
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\Delegates_Lambdas_Action_Func\CSharp_Lambdas3\bin\Debug\netcoreapp3.0\CSharp_Lambdas.pdb

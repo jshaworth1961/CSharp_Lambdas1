@@ -15,10 +15,20 @@ namespace CSharp_Lambdas
                 Console.WriteLine($"Calculation result: {result}");
             };
 
-            mathServe.Operation(3,4);
+            mathServe.CalculateNumbers(3,4, (value1,value2) =>
+            {
+                 return value1*value2; 
+                 //value1 * value2;
+            });
 
-          
-            
+            mathServe.CalculateNumbers(3,4,AddNum); //alternative; notice we don't actually need the return statement
+
+    
+        }
+
+        public static double AddNum(double value1, double value2)
+        {
+            return value1 + value2;
         }
 
         
